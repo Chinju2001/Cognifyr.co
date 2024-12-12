@@ -43,6 +43,3 @@ Our tools are designed to:
 
 ## 📷 Visuals and Demonstrations
 Visit our website to see animations and images that bring our AI-powered solutions to life. Dive into the possibilities with interactive visuals that make exploring our offerings engaging and insightful.
-
----
-Thank you for visiting! Let’s shape the future of AI together. 🌐
